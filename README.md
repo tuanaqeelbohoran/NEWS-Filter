@@ -5,8 +5,11 @@
 1. pip install the following packages:
 
 sentence-transformers
+
 pandas
+
 pytz
+
 argparse
 
 2. Place the "nasa.jsonl", "Volkswagen.jsonl" files on the same directory
